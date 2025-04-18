@@ -20,6 +20,7 @@ import Clientes from "./Pantallas/Clientes";
 import Inventario from "./Pantallas/Inventario";
 import Clientes_view from "./Pantallas/Clientes_view";
 import Clientes_agregar from "./Pantallas/Clientes_agregar";
+//import Login from "./Pantallas/Login";
 
 //para la navegacion 
 const HomeStackNavigator = createNativeStackNavigator();
